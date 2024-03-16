@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ITMO\\ADO_NET\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Database_tables\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C00E0C01-861E-4071-89BA-63CFEB6A2C91}|Database_tables.csproj|e:\\itmo\\ado_net\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\database_tables\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C00E0C01-861E-4071-89BA-63CFEB6A2C91}|Database_tables.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00E0C01-861E-4071-89BA-63CFEB6A2C91}|Database_tables.csproj|E:\\ITMO\\ADO_NET\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Database_tables\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00E0C01-861E-4071-89BA-63CFEB6A2C91}|Database_tables.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00E0C01-861E-4071-89BA-63CFEB6A2C91}|Database_tables.csproj|E:\\ITMO\\ADO_NET\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Database_tables\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C00E0C01-861E-4071-89BA-63CFEB6A2C91}|Database_tables.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00E0C01-861E-4071-89BA-63CFEB6A2C91}|Database_tables.csproj|E:\\ITMO\\ADO_NET\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Database_tables\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00E0C01-861E-4071-89BA-63CFEB6A2C91}|Database_tables.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "E:\\ITMO\\ADO_NET\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Database_tables\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "E:\\ITMO\\ADO_NET\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Database_tables\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T07:56:46.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\ITMO\\ADO_NET\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Database_tables\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\ITMO\\ADO_NET\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Database_tables\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T16:39:44.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\ITMO\\ADO_NET\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Database_tables\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\ITMO\\ADO_NET\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Database_tables\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T15:59:44.523Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\ITMO\\ADO_NET\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Database_tables\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "E:\\ITMO\\ADO_NET\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Database_tables\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T16:07:41.581Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
